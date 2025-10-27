@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 30px;
+    padding: 5px 25px;
+    border-radius: 5px;
+    background-color: rgb(164, 72, 130);
+    cursor: pointer;
+}
+
+.myLabels{
+    font-size: 30px;
+}
